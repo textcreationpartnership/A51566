@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liberty of conscience asserted against imposition proposed in several sober queries to those of the people called Quakers who have assumed such an authority contrary to their former testimonies, as also unto those that have submitted unto it before they found convictions in themselves, for them to weigh and consider in the ballance of true judgment / [by] William Mucklowe.</title>
+            <author>Mucklow, William, 1631-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51566</idno>
+            <idno type="STC">Wing M3034</idno>
+            <idno type="STC">ESTC R30067</idno>
+            <idno type="EEBO-CITATION">11240342</idno>
+            <idno type="OCLC">ocm 11240342</idno>
+            <idno type="VID">47048</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47048)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1447:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Liberty of conscience asserted against imposition proposed in several sober queries to those of the people called Quakers who have assumed such an authority contrary to their former testimonies, as also unto those that have submitted unto it before they found convictions in themselves, for them to weigh and consider in the ballance of true judgment / [by] William Mucklowe.</title>
+                  <author>Mucklow, William, 1631-1713.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673/4.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:47048:1" rendition="simple:additions"/>
+            <head>Liberty of Conſcience Aſſerted againſt Impoſition: Propoſed in Several Sober <hi>QUERIES</hi> to thoſe of the People called QUAKERS; who have Aſſumed ſuch an Autho<g ref="char:EOLhyphen"/>rity, contrary to their Former <hi>Teſtimonies</hi>: As alſo unto thoſe that have <hi>Submitted</hi> unto it, before they found <hi>Con<g ref="char:EOLhyphen"/>victions</hi> in themſelves; for them to <hi>weigh</hi> and <hi>conſider</hi> in the Ballance of True Judgment.</head>
+            <p>WHether Impoſed and Enforced <g ref="char:V">Ʋ</g>niformity and <g ref="char:V">Ʋ</g>nity in outward Ceremonies or Ge<g ref="char:EOLhyphen"/>ſtures, is not a great Enemy to the True Churches Peace, a Hinderance to the Proſ<g ref="char:EOLhyphen"/>perity of Truth, and a limiting the Spirit of the Lord?</p>
+            <p>Whether <g ref="char:V">Ʋ</g>niformity and <g ref="char:V">Ʋ</g>nity in outward Geſtures, <hi>&amp;c.</hi> is not Impoſed, when re<g ref="char:EOLhyphen"/>quired as a thing neceſſary, and they that dissent, to be reputed Erroneous, Heretical, <hi>&amp;c.</hi> and to be likewiſe excommunicated for being out of the comely order? And is there any example either from Chriſt or his Apoſtles for ſuch procedures? But did not they rather judge thoſe that laid a neceſſity upon ſuch things?</p>
+            <p>Whether this kind of <g ref="char:V">Ʋ</g>niformity <hi>&amp;c.</hi> hath not made many through fear, intereſt, and neceſſity, to conform; and will it not retain and let in thoſe, that ſhould be cast and kept out; to wit, the complying Hypocrite, who is deſti<g ref="char:EOLhyphen"/>tute of the Spirit; and caſt and keep out thoſe that ſhould be kept, and let in; even thoſe that wait in the manifeſta<g ref="char:EOLhyphen"/>tion of the Spirit?</p>
+            <p>Whether the keeping off the Hat in time of Prayer, is not an outward Ceremony, Geſture, or bodily Exerciſe? and whether to deny me and others the benefit of Marriage and Burial, having a propriety therein; only for the omittance of this; and to lay ſuch an Injunction upon ſo ſmall a matter, that draweth after it ſo deep a Cenſure, as to be ex<g ref="char:EOLhyphen"/>communicated; doth it not ſavour more of Cruelty in you, than in us, Diſobedience or Contempt, either to God or you?</p>
+            <p>Whether the giving way unto ſuch Impoſers, is not an In-let unto an Arbitrary Government; and when once they have gained ſo much reputation, as to be eſteemed Religious and Zealous Reformers, Ancient Friends, and Elders in God; and that it is our Duty to ſubmit unto ſuch: whether they may not in a ſhort ſpace, under theſe Pretences, eſtabliſh an Arbitrary Judicature?</p>
+            <p>Whether it hath not been experienced, how difficult it is to root out ſuch, when once they have reduced a People to this Belief, and they in the exerciſe of this Authority; becauſe the honour of being inveſted inſuch a Capacity, doth oblige men to ſecure themſelves in this Superior Orb, and ſtirs up men of Parts, and Ambition, to ſupport ſuch an Hierarchy, in expectation that it will at laſt fall unto themſelves?</p>
+            <p>Whether ſome Perſons that are accounted Famous and Renowned in the Congregation at <hi>London,</hi> have not redu<g ref="char:EOLhyphen"/>ced the People in ſome degree, under this Yoke of Bondage; becauſe they give that Meeting this Appellation, The Bo<g ref="char:EOLhyphen"/>dy (a high Title) and make it to be the Trial of Motions, and <g ref="char:V">Ʋ</g>nity <hi>&amp;c.</hi> when a few Principals ſhall ſway the Meeting as they pleaſe, unless themſelves divide: Now thoſe Members that exalt themſelves above their Fellows and equal Members, what do they elſe but uſurp the place of the Head, and ſo break in ſunder the <g ref="char:V">Ʋ</g>nity of the Body, which ſtands in the <g ref="char:V">Ʋ</g>nity of the Head; and ſet up another Head beſides Chriſt? Did not <hi>Rome</hi> obtain their un<g ref="char:EOLhyphen"/>limited Power by ſuch kind of Appellations, Principles and Pretences? If ſo, let a <hi>Mark</hi> be ſet upon all thoſe that ſeek the Prebeminence.</p>
+            <p>Whether ſome of you have not been filled with Prayer and Praiſes to the Lord, in ſilent Meetings, without either Words or Geſtures, to demonſtrate the inward Reverence, and yet approach'd to the Throne of Grace, in the deep Humility of your Souls, and with unvailed Spirits? Have not ſome of you walk'd by the way and prayed, been at your Labours and prayed, together and aſunder, without pulling off your Hats; and hath it not been as a ſtreet-ſmelling Savour unto the Lord? Have not many of you given Thanks for his Goodneſs and Mercy before Meat in ſilence, without its uſe, in a living ſenſe of his Power? Have not ſome kneeled, ſate, and ſtood in Publick Aſſemblies, and yet prayed in ſincerity, and the <g ref="char:V">Ʋ</g>nity kept? But if you go to impoſe any of theſe Po<g ref="char:EOLhyphen"/>ſtures upon your Fellow-Members, whether the Effects will not then be Diviſion?</p>
+            <p>Whether it is not as lawful to keep the Hat on in Prayer, as well as in Praiſes to the Lord? And whether a Cap is not as real a Covering to the Head, as a Hat? If ſo, why is the one condemned, and the other practiſed? Why is the Cap in the Comely Order, and the Hat out of it? Whether the Head mentioned in the 11th <hi>Cor.</hi> may not be covered with the Hat off, and uncovered with the Hat on?</p>
+            <p>Whether If it be a true Argument, that we are out of the Spirit in which the Apolſtes were, becauſe we forbear the uſe of the Hat in Prayer, contrary to that Saying, <hi>He that prayeth or propheſieth with his Head Covered,</hi> &amp;c. Then why not alſo in Propheſying? Beſides, Whether others may not more juſtly judge the ſame of you; you be<g ref="char:EOLhyphen"/>ing out of many of their Practices and Commands? The Apoſtle ſaith in the ſame Chapter, <hi>I permit not a Wo<g ref="char:EOLhyphen"/>man to ſpeak in the Church</hi>; and yet what is more frequent? So that when you can pretend that the Scriptures prove your Practices, then they ſhall be your Rule and Touchſtone, <hi>&amp;c.</hi> but when you are out of their Practices and Commands, then the Spirit, and not the Scriptures is your Rule.</p>
+            <p>Whether if pulling off the Hat in time of Prayer, were to pay Honour or Reverence to the Holy God, who ſo vile that conld nor do it? This is to make Religion to conſiſt in ſome External Appearances (as <hi>William Penn</hi> ſaith Su<g ref="char:EOLhyphen"/>perſtitious men do) and in invented Geſtures, and in a Shadow void of the Thing it ſelf, which it muſt neceſſarily do, in caſe the Ceremony of the Hat (ſaith he) be an Honour, or Reverence: but True Reverence, <hi>&amp;c.</hi> is an Holy Reverence to what is Holy, demonſtrated by ſome Subſtantial Good.</p>
+            <p>Whether, Firſt, Thoſe that have no Impulſe unto Prayer; Secondly, Thoſe whoſe Hearts are far from the Lord; And Thirdly, Thoſe that do believe that Service is not required, ought to pull off their Hats when Prayer is per<g ref="char:EOLhyphen"/>formed in your Aſſemblies, either in the Spirit of Life, or out of the Spirit of Life? And alſo, Whether thoſe that have a true Sence of the latter, ought to be uncovered? If yea, to all the ſaid Particulars; is not this a Worſhip in Form, rather than in Power? in Shew and Imitation, rather than in Spirit; and inconſiſtent with a Spiritual Worſhip; and contrary to the <g ref="char:V">Ʋ</g>nity in Spirit, and Principles of Truth (which is to wait, to feel the Openings and Leadings of the Spirit of Life in the Particular unto every Religious Performance) but a ſetting up of the Outward Court again? Doth not this make many Hypocrites?</p>
+            <p>Whether are we to mix our own Works in the Worſhip and Service of the Lord, with the Requirings of his Spi<g ref="char:EOLhyphen"/>rit? Whether the uſe of the Hat is not ſo, to thoſe that believe it is not required? Whether we are not rather to ceaſe from our own Labours, from a Voluntary Humility, (which hath a ſeeming ſhew of Reverence) leſt we ſet up Poſts by his Poſts? for <hi>whatſoever is not of Faith, is Sin.</hi>
+            </p>
+            <p>Whether it is not poſſible for ſome to forbear its uſe in Prayer, for Conſcience ſake, as to the Lord? leſt be ſhould ſay, <hi>Who hath required this at your hands</hi>? and not through an obſtinate, wilful, and oppoſite Spirit? What will you have theſe to do in ſuch a Caſe? Ought they, for this cauſe, to be excluded your Communion? If yea, whether you may not pull up the Wheat with the Tares, and to eject, before God doth; and then, where is your Liberty to Tender Conſciences?</p>
+            <p>Whether, if there be a Difference among you in things Ceremonial, or in Bodily Geſtures, when the Truth is owned, loved, and received as it is in Jeſus, you ought not to wait with patience till God ſhall teach him; becauſe with<g ref="char:EOLhyphen"/>out this Teaching he can never know it aright? And therefore will it not manifeſt a Spirit of Love and Tenderneſs, not to condemn one another for the <g ref="char:V">Ʋ</g>ſe or Forbearance thereof, any more than thoſe that did, and did not keep days; did, and did not eat Meats? And, whether the Apoſtle did not foreſee, that judgings in ſuch things, would tend to Separation and Diviſion?</p>
+            <p>Whether, if we are to walk by the ſame Rule whereunto we have already attained, then is there a Neceſſity of a Oneneſs in Practice; foraſmuch as there are different Meaſures, Growths and Motions?</p>
+            <p>Whether the Differences in Outward Exerciſes or Geſtures, will not abundantly commend the <g ref="char:V">Ʋ</g>nity of the True Faith; which doth not ſtand in Garments, Geſtures, Meats, or Drinks, but in the power of an endleſs life, in which God only is truly worſhipped?</p>
+            <p>Whether it is not better to be reputed <hi>Vile, Crawling, Stragling, and old Cankered Apoſtates, Vagabond<g ref="char:EOLhyphen"/>Quakers,</hi> &amp;c. and to be ſeparated from your Communion, rather than through Fear, Intereſt, and Neceſſity, to do that which may be right, before he ſees it to be ſo? But eſpecially, rather, than through Fear and Neceſſity, or any private Intereſt whatſoever, to do that which is evil; becauſe the Hypocrite God will judge?</p>
+            <p>Whether, To declare, there is not a further Manifeſtation, as many of you have done; and alſo whatſoever ſhall be added to, or diminiſhed from what you were in at the Beginning; ſhall not the Truths we yet know not, which are to be brought in, be reputed Errors; and the Errors which yet remain (for ought you know) be reputed Truths?</p>
+            <p>Whether, For you to aſſert thoſe <hi>Romiſh</hi> Poſitions, which have enſlaved Nations, and deſtroyed Thouſands, is not of a more dangerous Conſequence, than can well be uttered? Namely, 1. <hi>That we are to believe as the Church believes.</hi> 2. <hi>That the Church cannot Err.</hi> 3. <hi>That She hath Power to Bind and to Looſe.</hi> 4. <hi>That it is abo<g ref="char:EOLhyphen"/>minable Pride not to ſubmit unto Her Judgment, She having always the Infallible Spirit</hi>: With many ſuch like Expreſſions. And if you limit the Power and the Church to Perſons, why may not you Apoſtatize, as well as <hi>Rome,</hi> and yet ſtill claim the ſame Infallibility, and Dominion over their Faith? Which is contrary to the Apo<g ref="char:EOLhyphen"/>ſtles Saying, 2 <hi>Cor.</hi> 1. 24.</p>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>THat which was declared of, and teſtified unto in the beginning, was to direct our minds unto the Hea<g ref="char:EOLhyphen"/>venly Gift (not to the Church) but to the manifeſtation of the Spirit in the particular; waiting there to feel its Motions, and to hear its Voice; which would infallibly teach us our Duty towards God, our Neighbour, and our ſelves; and not to go forth into Reaſonings to promote comely Orders, after the manner of men; nor to be found in the exerciſe of any thing in his pure Worſhip, but what the Lord (and not the Bo<g ref="char:EOLhyphen"/>dy) required: elſe to ſtand ſtill in the ſilence to all Fleſh, attending the Motions of the Heavenly Draw<g ref="char:EOLhyphen"/>ings; and then to anſwer its Requirings. Were we not then exhorted to be like the Noble <hi>Bereans,</hi> to exa<g ref="char:EOLhyphen"/>mine and to try the Verity of your Doctrine by the meaſure of his Spirit in us; and whatſoever led from that Pure Gift, drew into the Apoſtacy: yea, if an Angel from Heaven brought another Goſpel, <hi>let him be</hi> (ſaid you) <hi>accurſed.</hi> Chriſt within us, was then to be Head, but now the Body without us. The Church was then to be in ſubjection to her Head, and every Member to be governed and exerciſed according to the Order of the Head: But now the Body, the Church, claims an Authority over their Fellow-Members, as peculiar<g ref="char:EOLhyphen"/>ly having the infallible Spirit; the certain un-erring Judgment, reſiding with them upon all occaſions, to know Truth from Error, and the Right, from the Wrong Spirit. Will you limit the Lord? cannot he reveal that to a particular, yea ſuch things as the Church would be ſtartled at, yea, and be ready to queſtion the Verity thereof; becauſe She likewiſe hath not the Manifeſtation of it; when, alas! it is hid from Her, as well as from a particular Member, unleſs the ſame Spirit reveals it? It's undeniable therefore, that the infallible Spi<g ref="char:EOLhyphen"/>rit, and the Word of Wiſdom depends not upon the Church, the Body; but upon Chriſt, the Head of the Body; who adminiſters of his Spirit in Diverſities of Operations; to few, or to many, as he pleaſeth; without reſpect to Perſons or Bodies. And it hath pleaſed the Lord, that there may be no Glorying, no Impoſing, no Uſurping over the Faith of any, to reveal himſelf unto the Lowly Ones, that are Little in their own Eyes, and in the Eyes of others, to inform the Church, and Elders thereof; to wit, <hi>John</hi> to the <hi>Seven Churches, Iſaiah</hi> and <hi>Jeremiah</hi> to the <hi>Jews; Elihu</hi> to <hi>Job</hi> and his <hi>Friends; Joſeph</hi> unto his <hi>Parents</hi> and <hi>Bre<g ref="char:EOLhyphen"/>thren; Moſes</hi> that was bred in <hi>Pharaob's</hi> Court, to the Church there. Who revealed unto <hi>David,</hi> that <hi>Goli<g ref="char:EOLhyphen"/>ah</hi> muſt fall by his Hands? Or who revealed unto <hi>Daniel</hi> and <hi>John,</hi> thoſe profound and deep Myſteries? Did the Church? Nay: Was it not hid from her Eyes? Did not the Elders that ſate in <hi>Moſes</hi> his Chair, reſiſt the Appearance of Chriſt both in Fleſh and Spirit? Did the Church make known unto <hi>Peter,</hi> that the Go<g ref="char:EOLhyphen"/>ſpel was to be preach'd to the Gentiles; and that in every Nation, he that feareth God, and worketh Righte<g ref="char:EOLhyphen"/>ouſneſs, is accepted of him? Nay, Nay. Did not <hi>Caleb</hi> and <hi>Joſhua</hi> withſtand the whole Congregation of <hi>Iſrael</hi>? Would they not have ſtoned them with Stones, for oppoſing the Church, in their Deſires to return towards <hi>Egypt</hi>? Who was the Schiſmatick here? <hi>Caleb</hi> and <hi>Joſhua,</hi> or rather the whole Congregation? Of what hath been ſaid, this is the Sum: A Church limited to perſons, may impoſe an Error, and caſt out the moſt Spiritual. Moreover, Who revealed unto <hi>Paul</hi> the Abolition of Circumciſion, <hi>&amp;c</hi>? Was not the Church at <hi>Jeruſalem</hi> diſſatisfied with him in what he preach'd to the Gentiles? Did not <hi>Paul</hi> withſtand the mighty Pillars, that compell'd the Gentiles, contrary to the Truth received? How ready were they here to be drawn aſide by that Spirit, from the meaſure of Truth in themſelves? This Example may be a Mark to all Impoſers and Compliers? It is therefore ſafe to ſtand ſtill, and to be in the Forbearance of that which we have no motion to from the Spirit of Truth; becauſe all Faith and Worſhip ought to ſtand upon its Con<g ref="char:EOLhyphen"/>victions. And therefore you greatly err, who ſay the keeping on the Hat, is a Practice introduc'd; unleſs you can prove it's done upon a Religious Account: when as, in truth, it is only a Cuſtom left, which we formerly practiſed. <hi>Friends</hi>! God is jealous of his Honour, and He will not give it to another: And thoſe that go to rob him thereof, he will not hold them guiltleſs. Remember from whence you are fallen, and repent, and do your firſt works: And your Return muſt be to that Spirit againſt whom you have ſin<g ref="char:EOLhyphen"/>ned; and lay down all at the Feet of Jeſus, that he alone may rule the Body, and the Members thereof, as he pleaſeth, for evermore.</p>
+            <p>Perhaps it will be expected that I make ſome Reply to a Book called <hi>Judas and the Jews, &amp;c.</hi> wherein I am charged by you to be one of the Cabal with the Author of <hi>Tyranny and Hypocriſie detected</hi>: And therefore you have not been wanting to beſtow on me the <hi>vileſt</hi> of Names; yea ſuch Names as may deprive me of my Reputation, as <hi>Apoſtate, Runagade, Vagabond Quaker, Ranting Spirit, Crawling Apoſtate,</hi> with many more, which may be ſeen in your Book. The Lord lay not this unto your charge. And having taſted in a meaſure of his Mercy and Forgiveneſs, I can ſay in the ſenſe of his Love, <hi>Father, forgive them.</hi>
+            </p>
+            <p>Unto the other part I have a few words for the vindicating of my Innocency, and condemning your Raſhneſs. Firſt, As touching the perſon that is ſaid to be the Author of that Book; I declare to you and all the World, that I have not the leaſt Acquaintance with him; and I have been ſo far from employing him in the writing thereof, that I have not ſo much as ſeen him, that I know of, for many years paſt. And I have been informed not long ſince, that the greateſt part, if not all, was written before I knew of it. And when I did hear that a Book was intended againſt <hi>Alexander the Copperſmith,</hi> I acquainted ſeveral therewith; with this Advice, to enquire out the perſon or perſons, and give them a meeting to compoſe the difference, to prevent its publication, but could not tell them who was the Author. Nor do I yet know, but by report. And whereas my name is mentioned abuſively in your Book touching <hi>John Whitehead</hi> and <hi>Thomas Murford,</hi> I have this in Anſwer; That if I cannot make good what the Author of <hi>Tyranny,</hi> &amp;c. <hi>detected,</hi> doth charge in <hi>pag.</hi> 50, &amp; 52, ſo far as it concerns me, before perſons equally choſen; I ſhall be content to bear the blame. And whereas it is denied, that I accuſed <hi>George Fox</hi> to be a Reſpecter of perſons in Judgment; if <hi>Gawen Lawrey, Sam. Newton, John Bolton,</hi> &amp; <hi>John Oſgood,</hi> will deny that I did accuſe him, as above; let them declare it: for they, and many more were at that Meeting. But I poſitively affirm, I did ſo accuſe him, and am ready to make good my Charge; and if they deny, or do not remember it, I can prove it by others there preſent. To conclude, If you had not either covered or juſtified the perſons accuſed, when guilty; and con<g ref="char:EOLhyphen"/>demned the Accuſers, when innocent; I believe theſe things had never been made publick; and ſo you reap the Fruits of your own Doings. And until you take ſhame unto your ſelves, and lie low before the Lord for theſe Abominations, and let Judgment paſs upon the Tranſgreſſor, and ſpare no Perſon whatſoever, for Favour or Affection; I ſay, until theſe things are accomplſhed, aſſuredly Sin will lie at your Doors. I ſhall leave the Iſſue of what I have written unto the Lord. And having thus diſcharged my Conſcience to<g ref="char:EOLhyphen"/>wards you in Faithfulneſs, I ſhall end with that excellent Saying of Chriſt's, <hi>As you would that all men ſhould do unto you, even ſo do you unto them; for this is the Law and the Prophets.</hi> From one who greatly deſires to ſee Moderation, Love and Charity, to be mutually extended unto all thoſe whoſe Hearts are upright, and Conſciences tender towards the Lord, though in ſeveral Forms.</p>
+            <closer>
+               <signed>William Mucklowe</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed in the Year</hi> 1673/4.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
